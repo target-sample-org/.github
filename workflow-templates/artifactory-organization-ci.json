@@ -1,0 +1,17 @@
+{
+    "name": "Artifactory CICD Push Workflow",
+    "description": "Artifactory CICD starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go", 
+        "Java",
+        "Node.js",
+        "Python",
+        "Ruby"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
